@@ -1,4 +1,5 @@
 # Assignment: Exploring Python Concepts
+# Author: Guillermo Jair Montiel Juárez
 
 # ----------------------------------------------------------------
 # Task 1 - Variables: Your First Python Intro
